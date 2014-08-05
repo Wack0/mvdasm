@@ -4,7 +4,7 @@ This is a small MivaVM disassembler I coded when bored. (Yes, it's completely un
 
 Given a .mvc file, it outputs .mva files that can be compiled by the official MivaVM assembler (mvasm), assuming no errors occured during disassembly.  
 
-Obviously, if an error occured during disassembly, it would be appreciated if you could submit a bug report and attach the .mvc in question.  
+Obviously, if an error occured during disassembly, it would be appreciated if you could submit a bug report and attach the .mvc in question. If you want to clean up some of the messy hacked together code, pull requests would be appreciated too!  
 
 If you don't have any .mvc files to hand, I've included a small example hello world mvc.  
   
