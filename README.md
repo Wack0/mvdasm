@@ -5,6 +5,8 @@ This is a small MivaVM disassembler I coded when bored. (Yes, it's completely un
 
 Given a .mvc file, it outputs .mva files that can be compiled by the official MivaVM assembler (mvasm), assuming no errors occured during disassembly.  
 
+If you don't have any .mvc files to hand, I've included a small example hello world mvc.  
+
   
 **What is MivaVM?**
   
