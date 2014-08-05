@@ -3,6 +3,7 @@ mvdasm
 
 This is a small MivaVM disassembler I coded when bored. (Yes, it's completely unofficial. I have no affiliation with Miva, Inc. I'm still unsure if Miva themselves have any kind of disassembler that they use internally, asides from leftover code in MivaVM and mvasm that seems to just dump opcodes anyway.)  
 Given a .mvc file, it outputs .mva files that can be compiled by the official MivaVM assembler (mvasm), assuming no errors occured during disassembly.  
+Obviously, if an error occured during disassembly, it would be appreciated if you could submit a bug report and attach the .mvc in question.  
 
 **What is MivaVM?**
 
