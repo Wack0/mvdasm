@@ -16,7 +16,7 @@ Its main use today is for running Miva's flagship web script, Miva Merchant.
 The documentation on MivaVM internals and the .mvc file format is basically nonexistant; this disassembler was made possible through reverse engineering. The *nix binaries being not stripped helped a lot :)
 
   
-**Why did you code *a disassembler* in PHP?**
+**Why was *a disassembler* coded in PHP?**
   
 
 A few reasons. First, because I'm insane :P  
